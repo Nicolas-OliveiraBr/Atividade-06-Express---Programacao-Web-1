@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dateformat": "^5.0.3",
+    "express": "^5.2.1",
+    "express-generator": "^4.2.0"
+  },
+  "name": "atividade-06-express---programacao-web-1",
+  "description": "Criar uma aplicação utilizando o framework Express que contenha a estrutura mínima mostrada no diagrama abaixo. Cada página atende com requisições GET. A rota /data atende com requisição POST.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-OliveiraBr/Atividade-06-Express---Programacao-Web-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas-OliveiraBr/Atividade-06-Express---Programacao-Web-1/issues"
+  },
+  "homepage": "https://github.com/Nicolas-OliveiraBr/Atividade-06-Express---Programacao-Web-1#readme"
+}
